@@ -16,6 +16,7 @@
 - OpenCV
 - PHP
 - JavaScript
+  <p align="left"> <img src="https://skillicons.dev/icons?i=python,flask,postgresql,mongodb,mysql,docker,git,linux,opencv,tensorflow,php,laravel,js,html,css,godot" /> </p>
 
 ## Actualmente
 
