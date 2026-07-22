@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Angel Refugio Quiroz
 
-<!--
-**angel-refugio/angel-refugio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante de Ingeniería en Sistemas Computacionales
 
-Here are some ideas to get you started:
+💻 Me apasiona el desarrollo de software, la inteligencia artificial y el backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+- Python
+- Flask
+- PostgreSQL
+- MongoDB
+- Docker
+- Git
+- Linux
+- OpenCV
+- PHP
+- JavaScript
+
+## Actualmente
+
+🚀 Trabajando en proyectos de IA, visión por computadora y desarrollo backend.
