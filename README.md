@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Ángel Refugio
 
-### Backend Developer | AI Enthusiast | Computer Systems Engineering Student
+### Desarrollador Backend | Entusiasta de la Inteligencia Artificial | Estudiante de Ingeniería en Sistemas Computacionales
 
 💻 Me apasiona desarrollar software que resuelva problemas reales mediante backend, inteligencia artificial, visión por computadora y procesamiento de datos.
 
