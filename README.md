@@ -1,77 +1,140 @@
-# ¡Hola! 👋 Soy Ángel Refugio
+# 👋 Hola, soy Ángel Refugio
 
-### Desarrollador Backend | Entusiasta de la Inteligencia Artificial | Estudiante de Ingeniería en Sistemas Computacionales
+### Backend Developer • Artificial Intelligence • Computer Vision
 
-💻 Me apasiona desarrollar software que resuelva problemas reales mediante backend, inteligencia artificial, visión por computadora y procesamiento de datos.
+🎓 Estudiante de Ingeniería en Sistemas Computacionales apasionado por el desarrollo de software, la inteligencia artificial y la construcción de soluciones que resuelvan problemas reales.
 
-Actualmente estoy fortaleciendo mis conocimientos en arquitecturas backend, modelos de IA, Docker y despliegue de aplicaciones.
+Actualmente desarrollo proyectos enfocados en backend, sistemas RAG, visión por computadora, ingeniería de datos y videojuegos con Godot.
 
-## 🛠️ Tecnologías
+---
 
-## 💻 Backend Development
+## 🚀 Áreas de Especialización
 
-Diseño y desarrollo de APIs, aplicaciones web y lógica de negocio utilizando arquitecturas modernas.
+### 💻 Backend Development
+
+Desarrollo de aplicaciones web, APIs REST y lógica de negocio utilizando arquitecturas modernas y buenas prácticas de desarrollo.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,php,laravel" />
+<img src="https://skillicons.dev/icons?i=python,flask,php,laravel" />
 </p>
 
 ---
 
-## 🗄️ Databases
+### 🗄️ Databases
 
-Modelado de datos, consultas SQL y almacenamiento de información relacional, documental y vectorial.
+Diseño y administración de bases de datos relacionales, NoSQL y vectoriales para aplicaciones modernas.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-**También trabajo con:**
+**También trabajo con**
 
 - ChromaDB
 
 ---
 
-## 🤖 Artificial Intelligence
+### 🤖 Artificial Intelligence
 
-Desarrollo de soluciones basadas en visión por computadora, modelos de IA y procesamiento inteligente de datos.
+Desarrollo de aplicaciones inteligentes mediante modelos de IA, procesamiento de documentos y visión por computadora.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
-**Experiencia con:**
+**Experiencia con**
 
 - OpenCV
 - Ollama
 - RAG (Retrieval-Augmented Generation)
+- NumPy
+- Pandas
 
 ---
 
-## ⚙️ DevOps & Tools
+### ⚙️ DevOps & Tools
 
-Contenerización, control de versiones y desarrollo en entornos Linux.
+Automatización del desarrollo, contenedores y control de versiones.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux" />
+<img src="https://skillicons.dev/icons?i=docker,git,linux" />
 </p>
 
 ---
 
-## 🌐 Frontend
+### 🌐 Frontend
 
-Interfaces web modernas con HTML, CSS y JavaScript.
+Construcción de interfaces web para complementar aplicaciones backend.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ---
 
-## 🎮 Game Development
+### 🎮 Game Development
 
 Desarrollo de videojuegos 2D utilizando Godot Engine.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=godot" />
+<img src="https://skillicons.dev/icons?i=godot" />
 </p>
+
+---
+
+# 📂 Proyectos Destacados
+
+### 🤖 AI ChatBot with RAG
+
+Sistema de chatbot basado en arquitectura RAG con Flask, PostgreSQL, ChromaDB y Ollama.
+
+**Tecnologías**
+
+Python • Flask • Docker • PostgreSQL • ChromaDB • Ollama
+
+---
+
+### 👁️ Real-Time Face Recognition
+
+Sistema de reconocimiento facial en tiempo real utilizando OpenCV y modelos LBPH.
+
+---
+
+### 📊 ETL Pipeline
+
+Extracción, transformación y carga de datos desde APIs REST, CSV y MongoDB hacia PostgreSQL.
+
+---
+
+### 💈 AppSalon
+
+Sistema completo de gestión de citas desarrollado con PHP MVC.
+
+---
+
+### 🎮 Rocky Roads
+
+Videojuego 2D desarrollado con Godot Engine.
+
+---
+
+# 📚 Actualmente aprendiendo
+
+- Arquitectura de Software
+- Machine Learning
+- LLM Applications
+- Cloud Deployment
+- Docker
+- FastAPI
+
+---
+
+# 📫 Contacto
+
+📧 Email
+
+Cuando tengas un correo profesional lo colocaremos aquí.
+
+💼 LinkedIn
+
+Próximamente.
