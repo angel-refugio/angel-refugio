@@ -1,23 +1,13 @@
-# ¡Hola! 👋 Soy Angel Refugio Quiroz
+# ¡Hola! 👋 Soy Ángel Refugio
 
-### Estudiante de Ingeniería en Sistemas Computacionales
+### Backend Developer | AI Enthusiast | Computer Systems Engineering Student
 
-💻 Me apasiona el desarrollo de software, la inteligencia artificial y el backend.
+💻 Me apasiona desarrollar software que resuelva problemas reales mediante backend, inteligencia artificial, visión por computadora y procesamiento de datos.
 
-## Tecnologías
+Actualmente estoy fortaleciendo mis conocimientos en arquitecturas backend, modelos de IA, Docker y despliegue de aplicaciones.
 
-- Python
-- Flask
-- PostgreSQL
-- MongoDB
-- Docker
-- Git
-- Linux
-- OpenCV
-- PHP
-- JavaScript
-  <p align="left"> <img src="https://skillicons.dev/icons?i=python,flask,postgresql,mongodb,mysql,docker,git,linux,opencv,tensorflow,php,laravel,js,html,css,godot" /> </p>
+## 🛠️ Tecnologías
 
-## Actualmente
-
-🚀 Trabajando en proyectos de IA, visión por computadora y desarrollo backend.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,php,laravel,postgres,mysql,mongodb,docker,git,linux,js,html,css,tensorflow,godot" />
+</p>
